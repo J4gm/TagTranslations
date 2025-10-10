@@ -217,6 +217,7 @@
 	"tag.block.minecraft.parrots_spawnable_on": "Spawning Parrots",
 	"tag.block.minecraft.piglin_repellents": "Avoided by Piglins",
 	"tag.block.minecraft.planks": "Planks",
+	"tag.block.minecraft.plays_ambient_desert_block_sounds": "Triggering Dry Vegetation Ambient Sounds",
 	"tag.block.minecraft.polar_bears_spawnable_on_alternate": "Spawning Polar Bears in Frozen Oceans",
 	"tag.block.minecraft.portals": "Portals",
 	"tag.block.minecraft.pressure_plates": "Pressure Plates",

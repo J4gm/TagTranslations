@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "min_format": 55,
+    	"max_format": 69,
+    	"pack_format": 55,
+    	"supported_formats": [55, 69],
+        "description": "Provides translations for vanilla namespace tags."
+    }
+}
